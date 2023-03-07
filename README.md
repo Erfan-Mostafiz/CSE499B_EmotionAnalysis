@@ -42,10 +42,10 @@ The Table below shows the Hyperparameters used in our CNN based network:
   The model has been tested real-time on one of the author's face, and the results are shown below: 
 </p>
 <p float="center">
-  <img src="https://github.com/Erfan-Mostafiz/CSE499B_EmotionAnalysis/blob/main/Inference_Real%20Time/One%20Author's%20Real%20Time%20Emotion/Happy.png?raw=true" width="240" height ="250" />
-  <img src="https://github.com/Erfan-Mostafiz/CSE499B_EmotionAnalysis/blob/main/Inference_Real%20Time/One%20Author's%20Real%20Time%20Emotion/Angry.png?raw=true" width="240" height ="250" /> 
-  <img src="https://github.com/Erfan-Mostafiz/CSE499B_EmotionAnalysis/blob/main/Inference_Real%20Time/One%20Author's%20Real%20Time%20Emotion/Neutral.png?raw=true" width="240" height ="250" />
-  <img src="https://github.com/Erfan-Mostafiz/CSE499B_EmotionAnalysis/blob/main/Inference_Real%20Time/One%20Author's%20Real%20Time%20Emotion/Surprise.png?raw=true" width="240" height ="250" />
+  <img src="https://github.com/Erfan-Mostafiz/CSE499B_EmotionAnalysis/blob/main/Inference_Real%20Time/One%20Author's%20Real%20Time%20Emotion/Happy.png?raw=true" width="235" height ="250" />
+  <img src="https://github.com/Erfan-Mostafiz/CSE499B_EmotionAnalysis/blob/main/Inference_Real%20Time/One%20Author's%20Real%20Time%20Emotion/Angry.png?raw=true" width="235" height ="250" /> 
+  <img src="https://github.com/Erfan-Mostafiz/CSE499B_EmotionAnalysis/blob/main/Inference_Real%20Time/One%20Author's%20Real%20Time%20Emotion/Neutral.png?raw=true" width="235" height ="250" />
+  <img src="https://github.com/Erfan-Mostafiz/CSE499B_EmotionAnalysis/blob/main/Inference_Real%20Time/One%20Author's%20Real%20Time%20Emotion/Surprise.png?raw=true" width="235" height ="250" />
 </p>
 
 
